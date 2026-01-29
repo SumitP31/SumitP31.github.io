@@ -1,11 +1,11 @@
 ---
-title: "A Low-Power FPGA-Based Hierarchical Stacking ML Model for Arrhythmia Detection"
+title: "A Wearable Indian Sign Language Translator "
 collection: publications
-category: conferences
+category: books
 permalink: /publication/2024-02-17-paper-title-number-2
-excerpt: 'In this paper we present a novel approach to accurately predict abnoramlities in ECG on low resource hardwares using hirarchial Stacking of Decision trees'
-date: 2026-01-01
-venue: 'Under Review'
+excerpt: 'A wearable device that can translate hand gestures or sign into text and audio using sensorized glove and Neural Network'
+date: 2025-01-01
+venue: ''
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 # citation: 'Sumit Pisal'
 ---

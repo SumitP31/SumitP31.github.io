@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Novel Heriarchial Stacking model for low power Arrhythmia Classification"
+excerpt: "<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+A Herarcial Stacked Decision Tree Model for Classifying Different Arrhythmias that can be efficiently implemented on low resource hardware platform such as low cost FPGA and Flexible IC. This work highly focuses on developing ML architecture that can accurately detecting Abnoramlity in ECG signal while minimizing the resources cost for computation.
