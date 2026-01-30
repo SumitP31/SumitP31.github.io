@@ -3,10 +3,10 @@ title: "A Wearable Indian Sign Language Translator "
 collection: publications
 category: books
 permalink: /publication/2024-02-17-paper-title-number-2
-excerpt: 'A wearable device that can translate hand gestures or sign into text and audio using sensorized glove and Neural Network'
+excerpt: 'A wearable device that can translate hand gestures or sign into text and audio using sensorized glove and Neural Network. Patent no. : 202321071011'
 date: 2025-01-01
 venue: ''
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+# paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 # citation: 'Sumit Pisal'
 ---
 
