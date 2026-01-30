@@ -3,7 +3,7 @@ title: "A Low-Power FPGA-Based Hierarchical Stacking ML Model for Arrhythmia Det
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-2
-excerpt: 'In this paper we present a novel approach to accurately predict abnoramlities in ECG on low resource hardwares using hirarchial Stacking of Decision trees'
+excerpt: 'We propose a hierarchical decision tree–based ECG arrhythmia classifier that achieves 97.72% accuracy while utilizing only 0.12% LUTs and 0.13% FFs on FPGA, enabling ultra-low-power embedded deployment.'
 date: 2026-01-01
 venue: 'Under Review'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'

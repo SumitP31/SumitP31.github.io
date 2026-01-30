@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: "ECS-203(Basic Electronics)"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "IISERB, EECS"
+date: 2025-08-01
+location: "Bhopal, India"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+Assessed and graded examination scripts, served as an invigilator during formal assessments, conducted tutorial sessions.
 
 Heading 1
 ======
