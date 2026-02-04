@@ -1,6 +1,6 @@
 ---
 title: "Novel Heriarchial Stacking model for low power Arrhythmia Classification"
-excerpt: "<br/><img src='/images/Decision.svg'>"
+excerpt: "<br/><img src='/images/rawio.svg'>"
 collection: portfolio
 ---
 
